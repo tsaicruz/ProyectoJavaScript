@@ -38,3 +38,55 @@ body{
     flex-direction: row;
     justify-content: space-between;
 }
+
+/* EMPEZAMOS A HACER EL CSS DE AGREGAR.HTML */
+
+.box-agregar {
+    background-color: rgba(0, 0, 0, 0.462);
+    margin-top: 9em;
+    height: 300px;
+    width: 455px;
+    margin-left: 23em;
+    border-radius: 3em;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btns-agregar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    column-gap: 20px;
+    width: 200px;
+    
+}
+
+
+.full-Page-Agregar{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+
+#btn-productos {
+    margin-top: 1.5em;
+}
+
+
+/*HACEMOS EL CSS PARA LOS ARTICULOS*/
+
+#fetch {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgba(255, 255, 255, 0.918);
+    margin: 1.5em;
+    padding: 3em;
+
+
+}

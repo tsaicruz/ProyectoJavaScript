@@ -1,0 +1,10 @@
+
+[ 
+            {"nombre": "Sailor mars", "descripcion": "lapicera fluor", "categoria": "lapicera",  "stock": 3, "precio": 250},
+            {"nombre": "Sailor venus", "descripcion": "agenda ecologica", "categoria": "cuaderno", "stock": 5, "precio": 500},
+            {"nombre": "Digimon ","descripcion": "agenda premium", "categoria": "cuaderno",  "stock": 2,"precio": 800},
+            {"nombre": "Pokemon ","descripcion": "Cuaderno", "categoria": "cuaderno", "stock": 1, "precio": 100},
+            {"nombre": "Hora de aventura ","descripcion": "lapicera", "categoria": "lapicera", "stock": 10, "precio": 600},
+            {"nombre": "Castores cascarrabias","descripcion": "Libro de estudio", "categoria": "libros", "stock": 50, "precio": 150},
+            {"nombre": "Bananas en pijamas","descripcion": "Cuaderno acrilico", "categoria": "cuaderno",  "stock": 20, "precio": 350}
+]
